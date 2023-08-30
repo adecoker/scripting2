@@ -1,10 +1,10 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :myLANDMARK.tech S Legah
+#author		     :AJJJC Groups : Ade Coker
 #date            :08112012
 #version         :1.0    
-#Tel		     :437 215 2483
+#Tel		     :562 253 9414
 
 
 #Number of arguments on the command line.
