@@ -12,17 +12,17 @@ Password
 <<sp  
 Title           : Learning comment
 description     :
-author		     :myLANDMARK.tech S Legah
-date            :08112012
+author		     :AJJJC Groups Ade Coker
+date            :08292023
 version         :1.0    
-Tel		     :437 215 2483
+Tel		     :562 253 9414
 pwd
 sp
 <<comment
 This script is for beginners.
 Learn how to write simple script
 Linux is very easy to understand.
-This script was written by LandmarkTechnology
+This script was written by AJJJC Groups
 comment
 echo "example about using multi-line comment"
 #echo "This line is commented""
